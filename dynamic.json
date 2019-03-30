@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "image":"images/download.jpg",
+    "name":"Yuvaraj",
+    "desig":"Student",
+    "mobile":"9908807919",
+    "email":"yuvaraj123@gmail.com"
+  },
+  "carrer":{
+    "info":"To become software engineer"
+  },
+  "Education":
+  [
+    {
+    "sno":"1",
+    "degree":"BTech",
+    "Institute":"MITS",
+    "percentage":"90%",
+    "year_of_passing":"2021"
+    },
+    {
+    "sno":"2",
+    "degree":"Intermediate",
+    "Institute":"Bharathi college",
+    "percentage":"96%",
+    "year_of_passing":"2017"
+    },
+    {
+    "sno":"3",
+    "degree":"SSC",
+    "Institute":"Rayalaseema school",
+    "percentage":"97%",
+    "year_of_passing":"2015"
+    }
+],
+     "Skills":[
+       {
+       "name":"webTechnologies",
+       "info":["html","css","js"]
+       },
+       {
+         "name":"database",
+         "info":["jdbc","firebase","sql","sqllite"]
+       }
+   ]
+}
